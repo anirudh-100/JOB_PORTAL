@@ -6,7 +6,7 @@ adding my code
 
 ## Authors
 
-- [Abdullah Moiz](https://www.github.com/Abdullah-moiz)
+- [Anirudh Rai](gh repo clone anirudh-100/JOB_PORTAL)
 
 ## Features
 
@@ -44,7 +44,7 @@ To run this project, you will need to add the following environment variables to
 
 `JWT_SECREAT` = Your custom JWT_SECREAT key
 
-`NEXT_PUBLIC_API_BASE_URL` =  Base URL for localhost  => http://localhost:3000
+`NEXT_PUBLIC_API_BASE_URL` =  Base URL for localhost  => http://localhost:4000
 
 
 ## Installation
