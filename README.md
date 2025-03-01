@@ -1,5 +1,5 @@
 ##### This App is Live and Running At the following
-#### https://job-portal-teal.vercel.app
+#### https://anirudh-100/JOB_PORTAL
 adding my code
 
  - don't forget to leave a star ! :)
